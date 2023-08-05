@@ -6,7 +6,10 @@ As social media becomes a bigger part of our lives, the media from where we choo
 
 > *Does the Threads app possess signs of longevity in the oligopoly of social media apps, based on what people commonly say about the app?*
 
-### Contents
+The blog site for the project can be found [here](https://choucurtis987.github.io/dh140_blog/).
+
+### Repo Content
 - [Project Notebook](final_project_notebook.ipynb)
 - [Requirements File](requirement.txt)
 - [Dataset (csv)](threads_reviews.csv)
+
