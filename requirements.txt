@@ -2,3 +2,9 @@ pandas==1.5.3
 matplotlib
 numpy
 datetime
+seaborn
+nltk
+scipy
+string
+warnings
+textblob
